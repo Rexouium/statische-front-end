@@ -1,0 +1,6 @@
+print("""
+    Very
+    nice
+    e
+
+""")
