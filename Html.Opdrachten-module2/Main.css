@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  text-align: center;
+  color: green;
+}
+
+div {
+    background-color: burlywood;
+}
+
+@media only screen and (max-width: 576px){
+    body {
+        background-color: orange;
+    }
+}
+@media only screen and (min-width: 576px){
+    body {
+        background-color: yellow;
+    }
+}
+@media only screen and (min-width: 768px){
+    body {
+        background-color: blue;
+    }
+}
+@media only screen and (min-width: 992px){
+    body {
+        background-color: red;
+    }
+}
